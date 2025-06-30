@@ -1,0 +1,113 @@
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+C:\Users\unisanta\Desktop\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+E:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csprojResolveAssemblyReference.cache
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+E:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.Cache
+D:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+D:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+D:\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.SuggestedBindingRedirects.cache
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+D:\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csprojResolveAssemblyReference.cache
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+E:\ProjetoSENSOR\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csprojResolveAssemblyReference.cache
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+F:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.Cache
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.SuggestedBindingRedirects.cache
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+D:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csprojResolveAssemblyReference.cache
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+E:\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Desktop\ProjetoSENSOR\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.ResolveComReference.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+C:\Users\kevin\OneDrive\Desktop\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.ResolveComReference.cache
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+C:\Users\giova\Desktop\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe.config
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.exe
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\bin\Debug\PjtSENSOR.pdb
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.AssemblyReference.cache
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.ResolveComReference.cache
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Form1.resources
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.Properties.Resources.resources
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.exe
+C:\Users\giova\Desktop\monitorador\ProjetoSENSOR_ATUALIZADO_061223\Grafico integrado\PjtSENSOR\PjtSENSOR\obj\Debug\PjtSENSOR.pdb
